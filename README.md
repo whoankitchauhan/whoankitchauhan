@@ -7,7 +7,7 @@ Welcome to my coding journey—a fusion of curiosity, innovation, and problem-so
 - Computer Engineering Diploma Student | Coding Enthusiast
 - Dedicated to mastering the art of Data Structures and Algorithms, adept at problem-solving, and passionate about programming languages.
 
-  ## 🎓 Education
+## 🎓 Education
 
 - Pursuing Computer Engineering at Delhi Skill and Entrepreneurship University (DSEU)
 - Completed schooling at Siddharth International Public School
@@ -18,7 +18,7 @@ Welcome to my coding journey—a fusion of curiosity, innovation, and problem-so
 - Solid foundation in C, C++, Java, and web development technologies
 - Explorer of programming languages and frameworks
 
-  ## ⚡️ Skills and Approach
+## ⚡️ Skills and Approach
 
 - Class Representative (CR) since the first semester
 - Effective in managing, leading, and coordinating in the college community
