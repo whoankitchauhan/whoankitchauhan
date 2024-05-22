@@ -1,75 +1,46 @@
-# 👋 Hello, I'm Ankit Chauhan!
+# 👋 Hello, I'm Ankit Chauhan! ![](https://komarev.com/ghpvc/?username=whoankitchauhan&abbreviated=true)
 
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="500">
-
-![](https://komarev.com/ghpvc/?username=whoankitchauhan&abbreviated=true)
-
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="900">
 
 Welcome to my coding journey—a fusion of curiosity, innovation, and problem-solving!
 
-## 🎓 About Me
+## About Me
 
-- **Computer Engineering Diploma Student** | Coding Enthusiast
-- Dedicated to mastering Data Structures and Algorithms, adept at problem-solving, and passionate about programming languages.
+- **Computer Engineering Student** at Delhi Skill and Entrepreneurship University (DSEU)
+- Concurrently pursuing a **B.Com degree**
+- Enthusiast of **Data Structures and Algorithms**
 
-## 🎓 Education
-
-- **Computer Engineering:** Delhi Skill and Entrepreneurship University (DSEU)
-- **Schooling:** Siddharth International Public School
-- **Concurrent Degree:** Pursuing B.Com alongside computer engineering studies
-
-## 💻 Technical Proficiency
+## Skills
 
 - **Programming Languages:** C, C++, Java, JavaScript
 - **Web Development:** HTML, CSS, React
 - **Databases:** MongoDB, Oracle
 - **Tools:** Arduino, Photoshop
 
-## ⚡️ Skills and Approach
+## Achievements
 
-- **Leadership:** Class Representative (CR) since the first semester, managing and coordinating college community activities.
-- **Academic Excellence:** Consistently top-ranked in class.
-- **Critical Thinking:** Strong problem-solving and analytical skills.
-- **Collaboration:** Effective team player and leader.
+- **Leadership:** Class Representative (CR) since the first semester
+- **Academic Excellence:** Top-ranked in class
+- **Problem-Solving:** Strong critical thinking skills
 
-## 🚀 Project Highlights
+## Projects
 
-- **Web Applications:** Developing innovative and user-friendly web applications.
-- **Software Solutions:** Engineering robust software solutions to address complex problems.
+- Developing innovative web applications
+- Engineering robust software solutions
+
+## Connect with Me
+
+- **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/whoankitchauhan)
+- **Email:** [whoankitchauhan@gmail.com](mailto:whoankitchauhan@gmail.com)
+- **GitHub:** [Check out my repositories](https://github.com/whoankitchauhan)
 
 ## 🌱 Continuous Learning
 
 - Constantly exploring the latest advancements in computer engineering.
 - Insatiable curiosity and passion for knowledge.
 
-## 📚 Beyond Coding
+## Languages and Tools
 
-- Enthusiast of emerging technologies like AI and blockchain.
-- Driven by a passion for innovation and exploration.
-
-## 🌟 Connect with Me
-
-- **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/whoankitchauhan)
-- **Email:** [whoankitchauhan@gmail.com](mailto:whoankitchauhan@gmail.com)
-
-## 🌟 Let's Collaborate!
-
-- Open to exciting projects and collaborations.
-- Interested in discussing coding, problem-solving, and innovative ideas.
-
-## 🌟 Explore with Me
-
-- **GitHub:** [Check out my repositories](https://github.com/whoankitchauhan)
-
-## 📫 Reach Out
-
-Feel free to contact me for discussions, collaborations, or just a chat about coding and problem-solving!
-
-## 🌟 Together, let's harness the power of code, solve complex problems, and pave the way for a better future! 🚀
-
----
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
@@ -111,5 +82,3 @@ Feel free to contact me for discussions, collaborations, or just a chat about co
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whoankitchauhan&show_icons=true&locale=en" alt="whoankitchauhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whoankitchauhan&" alt="whoankitchauhan" /></p>
-
-
