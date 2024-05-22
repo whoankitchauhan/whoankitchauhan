@@ -1,5 +1,9 @@
 # 👋 Hello, I'm Ankit Chauhan! ![](https://komarev.com/ghpvc/?username=whoankitchauhan&abbreviated=true)
 
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="500">
 
 Welcome to my coding journey, where curiosity fuels innovation and problem-solving drives progress!
