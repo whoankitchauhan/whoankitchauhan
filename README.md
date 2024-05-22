@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ankit Chauhan! ![](https://komarev.com/ghpvc/?username=whoankitchauhan&abbreviated=true)
 
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
 Welcome to my coding journey, where curiosity fuels innovation and problem-solving drives progress!
 
@@ -83,5 +83,4 @@ Welcome to my coding journey, where curiosity fuels innovation and problem-solvi
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whoankitchauhan&" alt="whoankitchauhan" /></p>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
