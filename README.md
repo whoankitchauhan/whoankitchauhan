@@ -1,4 +1,4 @@
-# 🚀 Welcome to Ankit Chauhan's Coding Odyssey! 💻 <img src="https://komarev.com/ghpvc/?username=whoankitchauhan&label=Views&color=blue&style=plastic" width="100" height="50">
+# 🚀 Welcome to Ankit Chauhan's Coding Odyssey! 💻 <img src="https://komarev.com/ghpvc/?username=whoankitchauhan&label=Views&color=blue&style=plastic" width="100" height="30">
 
 
 *"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Einstein*
