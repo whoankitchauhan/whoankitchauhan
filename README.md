@@ -5,6 +5,9 @@
 
 ![Ankit Chauhan](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="400">
+
+
 Welcome to Ankit Chauhan's Coding Odyssey! 🌟 Embark on a journey where passion meets purpose. Together, let's delve into the fascinating world of coding, where each challenge conquered and every line of code written is a testament to our dedication and determination. 🚀
 
 
