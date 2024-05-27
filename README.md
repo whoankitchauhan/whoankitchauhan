@@ -3,8 +3,6 @@
 
 *"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Einstein*
 
-![Ankit Chauhan](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
-
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
 
