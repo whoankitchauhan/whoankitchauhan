@@ -77,6 +77,13 @@ Welcome to my coding journey, where curiosity fuels innovation and problem-solvi
   </a> 
 </p>
 
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=whoankitchauhan&count_private=true&show_icons=true&theme=dracula&line_height=33">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoankitchauhan&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
+
+</p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whoankitchauhan&show_icons=true&locale=en&layout=compact" alt="whoankitchauhan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whoankitchauhan&show_icons=true&locale=en" alt="whoankitchauhan" /></p>
