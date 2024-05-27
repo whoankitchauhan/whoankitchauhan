@@ -77,7 +77,7 @@ Welcome to my coding journey, where curiosity fuels innovation and problem-solvi
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whoankitchauhan&show_icons=true&locale=en&layout=compact" alt="whoankitchauhan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whoankitchauhan&show_icons=true&locale=en&layout=compact" alt="whoankitchauhan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whoankitchauhan&show_icons=true&locale=en" alt="whoankitchauhan" /></p>
 
