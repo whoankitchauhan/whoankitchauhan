@@ -80,7 +80,7 @@ Welcome to my coding journey, where curiosity fuels innovation and problem-solvi
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=whoankitchauhan&count_private=true&show_icons=true&theme=dracula&line_height=33">
+  <img src="https://github-readme-stats.vercel.app/api?username=whoankitchauhan&count_private=true&show_icons=true&theme=dracula&line_height=35">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoankitchauhan&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whoankitchauhan&theme=dracula" alt="whoankitchauhan" />
   
