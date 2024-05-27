@@ -1,12 +1,9 @@
-# 🚀 Welcome to Ankit Chauhan's Coding Odyssey!
-
-![Profile Views](https://komarev.com/ghpvc/?username=whoankitchauhan&label=Views&color=blue&style=plastic)
+# 🚀 Welcome to Ankit Chauhan's Coding Odyssey! 💯 ![Profile Views](https://komarev.com/ghpvc/?username=whoankitchauhan&label=Views&color=blue&style=plastic)
 
 *"In every job that must be done, there is an element of fun." - Mary Poppins*
 
-Embark on this coding journey with Ankit Chauhan, where innovation meets passion, and every challenge is an opportunity for growth!
+Welcome to Ankit Chauhan's exhilarating Coding Odyssey! Join me on this epic journey where innovation is the compass, passion fuels the engine, and every challenge is a stepping stone to greatness. Together, let's explore the vast universe of code, where each line written is a triumph, and every bug conquered is a victory. Let's code our way to the stars and beyond!
 
-Welcome to my coding journey, where curiosity fuels innovation and problem-solving drives progress! 🚀
 
 ## About Me
 
