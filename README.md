@@ -13,17 +13,27 @@ Welcome to my coding journey, where curiosity fuels innovation and problem-solvi
 ## Skills
 
 ### Programming Languages
-- **Proficient:** C, C++, Java, JavaScript
-- **Familiar:** Python 🐍
+- C, C++, Java, JavaScript, PHP, Python 🐍
 
 ### Web Development
-- HTML, CSS, React
+- HTML5, CSS3, JavaScript (ES6+)
+- Frontend Frameworks/Libraries: React
 
 ### Databases
-- MongoDB, Oracle 🛢️
+- MongoDB
+- Oracle
 
-### Tools
-- Arduino, Photoshop 🛠️
+### Tools and Technologies
+- Version Control: Git, GitHub
+- IDEs: Visual Studio Code, Eclipse
+- Graphic Design: Adobe Photoshop, Adobe Illustrator
+- Other: Arduino, Docker
+
+### Soft Skills
+- Problem-Solving
+- Critical Thinking
+- Teamwork and Collaboration
+- Time Management
 
 ## Achievements
 
