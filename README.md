@@ -16,26 +16,13 @@ Embark on a journey where passion meets purpose. Together, let's delve into the 
 
 ## Skills
 
-### Programming Languages
-- C, C++, Java, JavaScript, PHP, Python 🐍
-
-### Web Development
-- HTML5, CSS3, JavaScript (ES6+)
-- Frontend Frameworks/Libraries: React
-
-### Databases
-- MySQL
-- MongoDB
-- Oracle
-
-### Tools and Technologies
-- Version Control: Git, GitHub
-- IDEs: Visual Studio Code, Eclipse
-- Graphic Design: Adobe Photoshop, Adobe Illustrator
-- Other: Arduino, Docker
+- **Programming Languages:** C, C++, Java, JavaScript, PHP, Python
+- **Web Development:** HTML5, CSS3, JavaScript (ES6+), React
+- **Databases:** MySQL, MongoDB, Oracle
+- **Tools & Technologies:** Git, GitHub, VS Code, Eclipse, Adobe Photoshop, Adobe Illustrator, Arduino, Docker
 
 ### Achievements & Soft Skills
-- 🚀 **Leadership:** Class Representative (CR) since the first semester
+- 🚀 **Leadership:** Class Representative since the first semester
 - 🏆 **Academic Excellence:** Top-ranked in class
 - 🧠 **Problem-Solving:** Strong critical thinking skills
 - 🤝 **Teamwork & Collaboration:** Effective in team settings
@@ -43,15 +30,10 @@ Embark on a journey where passion meets purpose. Together, let's delve into the 
 - 💡 **Critical Thinking:** Analytical and strategic thinker
 
 ## Projects
-
-- 🌐 **Web Development:**
-  - Websites for Restaurant, Travel, and Shopping
-  - Weather API
-  - Email Validator API
-  - Stopwatches
-  - Tic Tac Toe
-  - Developing innovative web applications
-  - Engineering robust software solutions
+- **Web Development:** Websites for Restaurant, Travel, and Shopping; Weather API; Email Validator API
+- **Tools:** Stopwatches
+- **Games:** Tic Tac Toe
+- **Software Solutions:** Developing innovative web applications and engineering robust software solutions
 
 ## Connect with Me
 
