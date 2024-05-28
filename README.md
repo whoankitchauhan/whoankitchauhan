@@ -1,12 +1,17 @@
-# Welcome to Ankit Chauhan's Coding Odyssey! 💻
+# Welcome to Ankit Chauhan's Coding World! 💻
 
 <img src="https://komarev.com/ghpvc/?username=whoankitchauhan&label=Views&color=blue&style=plastic" width="150" height="30">
 
-*"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Einstein*
+*"The only way to do great work is to love what you do." - Steve Jobs*
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
-Embark on a journey where passion meets purpose. Together, let's delve into the fascinating world of coding, where each challenge conquered and every line of code written is a testament to our dedication and determination. 🚀
+Hey there! Welcome aboard to my coding realm, where every line of code is a step closer to digital nirvana. 🚀
+
+I'm Ankit Chauhan, your guide through this thrilling adventure of zeros and ones. Together, we'll explore the boundless possibilities of the digital universe, armed with nothing but our wit and a keyboard.
+
+So, grab a seat, buckle up, and let's dive headfirst into the enchanting world of coding! 💻✨
+
 
 ## About Me
 
@@ -90,3 +95,5 @@ Embark on a journey where passion meets purpose. Together, let's delve into the 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoankitchauhan&count_private=true&hide=html,scss,ejs&theme=dracula&line_height=10">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=whoankitchauhan&theme=dracula" alt="Streak Stats" />
 </p>
+
+Embark on a journey where passion meets purpose. Together, let's delve into the fascinating world of coding, where each challenge conquered and every line of code written is a testament to our dedication and determination. 🚀
