@@ -40,12 +40,13 @@ So, grab a seat, buckle up, and let's dive headfirst into the enchanting world o
 - **Games:** Tic Tac Toe
 - **Software Solutions:** Developing innovative web applications and engineering robust software solutions
 
-## Connect with Me
-
-- **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/whoankitchauhan)
+## Feel free to connect with me on
+- **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/whoankitchauhan) 🌐
 - **Twitter:** [@whoankitchauhan](https://twitter.com/whoankitchauhan) 🐦
-- **Email:** [whoankitchauhan@gmail.com](mailto:whoankitchauhan@gmail.com)
-- **GitHub:** [Check out my repositories](https://github.com/whoankitchauhan)
+- **Email:** [whoankitchauhan@gmail.com](mailto:whoankitchauhan@gmail.com) 📧
+- **GitHub:** [Check out my repositories](https://github.com/whoankitchauhan) 📂
+- **Instagram:** [Follow on Instagram](https://www.instagram.com/whoankitchauhan/) 📸
+- **Facebook:** [Add on Facebook](https://www.facebook.com/whoankitchauhan) 📘
 
 ## 🌱 Continuous Learning
 
