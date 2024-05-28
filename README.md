@@ -1,20 +1,18 @@
-# 🚀 Welcome to Ankit Chauhan's Coding Odyssey! 💻 <img src="https://komarev.com/ghpvc/?username=whoankitchauhan&label=Views&color=blue&style=plastic" width="100" height="30">
+# Welcome to Ankit Chauhan's Coding Odyssey! 💻
 
+<img src="https://komarev.com/ghpvc/?username=whoankitchauhan&label=Views&color=blue&style=plastic" width="150" height="30">
 
 *"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." - Albert Einstein*
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
-
-- Embark on a journey where passion meets purpose. Together, let's delve into the fascinating world of coding, where each challenge conquered and every line of code written is a testament to our dedication and determination. 🚀
-
-
+Embark on a journey where passion meets purpose. Together, let's delve into the fascinating world of coding, where each challenge conquered and every line of code written is a testament to our dedication and determination. 🚀
 
 ## About Me
 
 - 🎓 **Computer Engineering Student** at Delhi Skill and Entrepreneurship University (DSEU)
 - 📚 Concurrently pursuing a **B.Com degree**
-- 💡 Enthusiast of **Data Structures and Algorithms** 💻
+- 💡 Enthusiast of **Data Structures and Algorithms**
 
 ## Skills
 
@@ -36,22 +34,27 @@
 - Graphic Design: Adobe Photoshop, Adobe Illustrator
 - Other: Arduino, Docker
 
-### Soft Skills
-- Problem-Solving
-- Critical Thinking
-- Teamwork and Collaboration
-- Time Management
-
-## Achievements
-
+### Achievements & Soft Skills
 - 🚀 **Leadership:** Class Representative (CR) since the first semester
 - 🏆 **Academic Excellence:** Top-ranked in class
-- 💡 **Problem-Solving:** Strong critical thinking skills
+- 🧠 **Problem-Solving:** Strong critical thinking skills
+- 🤝 **Teamwork & Collaboration:** Effective in team settings
+- ⏳ **Time Management:** Efficient in handling multiple tasks
+- 💡 **Critical Thinking:** Analytical and strategic thinker
 
 ## Projects
 
-- 🌐 Developing innovative web applications
-- ⚙️ Engineering robust software solutions
+- 🌐 **Web Development:**
+  - Websites for Restaurant, Travel, and Shopping
+  - Weather API
+  - Email Validator API
+- ⏲️ **Tools:**
+  - Stopwatches
+- 🎮 **Games:**
+  - Tic Tac Toe
+- ⚙️ **Software Solutions:**
+  - Developing innovative web applications
+  - Engineering robust software solutions
 
 ## Connect with Me
 
