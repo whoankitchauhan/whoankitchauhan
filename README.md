@@ -48,11 +48,8 @@ Embark on a journey where passion meets purpose. Together, let's delve into the 
   - Websites for Restaurant, Travel, and Shopping
   - Weather API
   - Email Validator API
-- ⏲️ **Tools:**
   - Stopwatches
-- 🎮 **Games:**
   - Tic Tac Toe
-- ⚙️ **Software Solutions:**
   - Developing innovative web applications
   - Engineering robust software solutions
 
