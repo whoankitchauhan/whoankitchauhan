@@ -26,6 +26,7 @@
 - Frontend Frameworks/Libraries: React
 
 ### Databases
+- MySQL
 - MongoDB
 - Oracle
 
