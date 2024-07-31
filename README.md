@@ -1,3 +1,5 @@
+
+
 # Welcome to Ankit Chauhan's Coding World! 💻
 
 <img src="https://komarev.com/ghpvc/?username=whoankitchauhan&label=Views&color=blue&style=plastic" width="150" height="30">
@@ -15,8 +17,9 @@ So, grab a seat, buckle up, and let's dive headfirst into the enchanting world o
 
 ## About Me
 
-- 🎓 **Computer Engineering Student** at Delhi Skill and Entrepreneurship University (DSEU)
-- 📚 Concurrently pursuing a **B.Com degree**
+- 🎓 **B.Tech in Computer Science and Engineering** at Vivekananda Institute of Professional Studies - Technical Campus (VIPS)
+- 📚 Previously completed a **Diploma in Computer Engineering**
+- 🖊️ Concurrently pursuing a **B.Com degree**
 - 💡 Enthusiast of **Data Structures and Algorithms**
 
 ## Skills
