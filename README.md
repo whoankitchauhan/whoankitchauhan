@@ -25,9 +25,9 @@ So, grab a seat, buckle up, and let's dive headfirst into the enchanting world o
 ## Skills
 
 - **Programming Languages:** C, C++, Java, JavaScript, PHP, Python
-- **Web Development:** HTML5, CSS3, JavaScript (ES6+), React
-- **Databases:** MySQL, MongoDB, Oracle
-- **Tools & Technologies:** Git, GitHub, VS Code, Eclipse, Adobe Photoshop, Adobe Illustrator, Arduino, Docker
+- **Web Development:** HTML5, CSS3, JavaScript (ES6+)
+- **Databases:** MySQL, MongoDB
+- **Tools & Technologies:** Git, GitHub, VS Code
 
 ### Achievements & Soft Skills
 - 🚀 **Leadership:** Class Representative since the first semester
