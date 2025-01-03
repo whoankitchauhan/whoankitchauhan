@@ -97,8 +97,8 @@ So, grab a seat, buckle up, and let's dive headfirst into the enchanting world o
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=whoankitchauhan&count_private=true&show_icons=true&theme=dracula&line_height=40">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoankitchauhan&count_private=true&hide=html,scss,ejs&theme=dracula&line_height=10">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whoankitchauhan&theme=dracula" alt="Streak Stats" />
-   https://streak-stats.demolab.com/?user=whoankitchauhan
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=whoankitchauhan&theme=dracula" alt="Streak Stats" /> -->
+   <img src ="https://streak-stats.demolab.com/?user=whoankitchauhan&theme=dracula" alt="Streak Stats" />
 </p>
 
 Embark on a journey where passion meets purpose. Together, let's delve into the fascinating world of coding, where each challenge conquered and every line of code written is a testament to our dedication and determination. 🚀
