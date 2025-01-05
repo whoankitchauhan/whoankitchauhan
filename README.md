@@ -97,9 +97,7 @@ So, grab a seat, buckle up, and let's dive headfirst into the enchanting world o
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=whoankitchauhan&count_private=true&show_icons=true&theme=dracula&line_height=40">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoankitchauhan&count_private=true&hide=html,scss,ejs&theme=dracula&line_height=10">
- <img src="https://streak-stats.demolab.com/?user=whoankitchauhan&theme=dark&background=f2f2f2&border=35d22" alt="GitHub Streak" />
- https://nirzak-streak-stats.vercel.app/?user=whoankitchauhan
-
+ <img src="https://streak-stats.demolab.com/?user=whoankitchauhan&theme=dark" alt="GitHub Streak" />
 
 </p>
 
