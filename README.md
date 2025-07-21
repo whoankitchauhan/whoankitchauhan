@@ -4,7 +4,11 @@
 
 > _“The only way to do great work is to love what you do.” – Steve Jobs_
 
-I'm a Computer Science Engineering student with a knack for building scalable web solutions, automating workflows, and solving real-world problems with clean and thoughtful code.
+I'm a Computer Science Engineering student passionate about solving real-world problems through code. I love building scalable web solutions, automating workflows, and learning new technologies.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="800" />
+</p>
 
 ---
 
@@ -23,12 +27,12 @@ I'm a Computer Science Engineering student with a knack for building scalable we
 - Received a **Letter of Recommendation** for consistent performance
 
 ### 🔹 **Real-World Projects – Warehouse Dashboard (WMS 2.0)**
-- Created a fully functional React + Tailwind dashboard integrating multiple APIs  
-- Implemented features like login, analytics cards, charts, dark mode, and real-time stats  
+- Built a feature-rich dashboard using React + Tailwind integrated with real-time APIs
+- Implemented login flow, analytics cards, charts, dark mode toggle & data grids
 
 ### 🔹 **Leadership**
-- Class Representative & Team Lead for multiple college events and technical fests  
-- Skilled at communication, collaboration, and cross-functional teamwork
+- Class Representative & Event Lead in technical fests and college activities
+- Strong communicator, collaborator, and decision-maker
 
 ---
 
@@ -38,7 +42,7 @@ I'm a Computer Science Engineering student with a knack for building scalable we
 `C` `C++` `Java` `JavaScript` `Python` `PHP`
 
 **Web Technologies:**  
-`HTML5` `CSS3` `React.js` `Tailwind CSS` `REST APIs`  
+`HTML5` `CSS3` `React.js` `Tailwind CSS` `REST APIs`
 
 **Database & Tools:**  
 `MySQL` `MongoDB` `Git & GitHub` `Postman` `VS Code` `Figma`
@@ -62,9 +66,9 @@ I'm a Computer Science Engineering student with a knack for building scalable we
 ## 🧠 Highlights
 
 - ✅ Certified in **C**, **JavaScript**, **Web Development**, and **PMKVY Software Development**
-- 🔁 Regular contributor on **LeetCode** & continuously improving **DSA**
+- 🔁 Active on **LeetCode** with strong focus on DSA patterns and problem solving
 - 🎤 **Event Organizer** | **Class Representative** | Strong team player
-- 🌐 Currently exploring **Next.js**, **Backend APIs**, and **AI automation**
+- 🌐 Exploring **Next.js**, **Backend APIs**, and **AI automation**
 
 ---
 
@@ -90,4 +94,4 @@ I'm a Computer Science Engineering student with a knack for building scalable we
 
 ---
 
-### 💡 Let's build something impactful together!
+### 💡 Let’s collaborate and turn ideas into impact!
