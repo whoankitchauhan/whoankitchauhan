@@ -1,4 +1,4 @@
-# Ankit Chauhan — Full-Stack Developer | Problem Solver | Tech Enthusiast
+# Full-Stack Developer | Problem Solver | Tech Enthusiast
 
 [![Profile Views](https://komarev.com/ghpvc/?username=whoankitchauhan&label=Profile+Views&color=0e75b6&style=flat-square)](https://github.com/whoankitchauhan)
 ![Quote Badge](https://img.shields.io/badge/-“Stay%20hungry,%20stay%20foolish.”-black?style=flat-square&logo=apple)
